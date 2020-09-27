@@ -1,9 +1,9 @@
 ---
-short_name: C.S. Rhymes
+short_name: Hirasawa Shogo
 title: C.S. Rhymes - web dev and author
-name: C.S. Rhymes
-position: Web Designer
-description: C.S. Rhymes is a web developer and a part time author, specialising in Laravel, Vue.js and developing Jekyll themes.
+name: Hirasawa Shogo
+position: Students
+description: テスト.
 avatar: /img/avatar.png
 facebook: https://www.facebook.com/
 twitter: https://www.twitter.com/chrisrhymes
