@@ -1,17 +1,20 @@
 ---
-short_name: Shogo Hirasawa
-title: Shogo Hirasawa Plofile
-name: Shogo Hirasawa
-position: Student
-description: 青山学院大学 地球社会共生学部 ４年 平澤彰悟. 専攻は空間情報学
+short_name: C.S. Rhymes
+title: C.S. Rhymes - web dev and author
+name: C.S. Rhymes
+position: Web Designer
+description: C.S. Rhymes is a web developer and a part time author, specialising in Laravel, Vue.js and developing Jekyll themes.
 avatar: /img/avatar.png
-facebook: https://www.facebook.com/profile.php?id=100009552714635
-twitter: https://twitter.com/YiKQWqyRw6zM7jQ
-github: https://github.com/ShogoHirasawa
-instagram: https://www.instagram.com/shogo_hirasawa/?hl=ja
-linkedin: https://www.linkedin.com/in/shogo-hirasawa-233b49191/
-Note:https://note.com/
+website: https://www.csrhymes.com
+facebook: https://www.facebook.com/
+twitter: https://www.twitter.com/chrisrhymes
+github: https://www.github.com/chrisrhymes
+gitlab: https://www.gitlab.com
+instagram: https://www.instagram.com
+linkedin: https://www.linkedin.com/in/chris-rhymes-a6a85971
+medium: https://www.medium.com/@chrisrhymes
+stack_overflow: https://stackoverflow.com/
 ---
-青山学院大学 地球社会共生学部 ４年 平澤彰悟. 専攻は空間情報学.
+C.S. Rhymes is a web developer and a part time author, specialising in Laravel, Vue.js and developing Jekyll themes.
 
-
+This theme was built by C.S. Rhymes as well as the [Bulma Clean Theme](https://www.csrhymes.com/bulma-clean-theme). 
